@@ -7,12 +7,8 @@ sudo docker restart <containername>
 ```
 WARNING: Anyone who simply runs the script without understanding the process will not know what is happening. Therefore, the first installation should be done manually by entering the commands into the terminal one by one. This ensures you see exactly what happens.
 
-Diese Liste von Befehlen installiert Docker, Docker Compose, Portainer und OpenWebUI (als Docker Container) auf debian-basierten Systemen, indem man sie vollständig ins Terminal kopiert. Am Ende des Skripts wird ein Reboot automatisch durchgeführt. Dennoch kann es nötig sein, einen oder beide der gestarteten Container über Docker zu restarten mit:
+Diese Liste von Befehlen installiert Docker, Docker Compose, Portainer und OpenWebUI (als Docker Container) auf debian-basierten Systemen, indem man sie vollständig ins Terminal kopiert. Am Ende des Skripts wird ein Reboot automatisch durchgeführt. Dennoch kann es nötig sein, einen oder beide der gestarteten Container über Docker zu restarten mit: siehe oben.
 
-```
-sudo docker ps
-sudo docker restart <containername>
-```
 WARNUNG: Wer einfach nur das Skript durchlaufen lässt, versteht nicht, wie es funktioniert. Deshalb sollte die Erstinstallation auf jeden Fall händisch ausgeführt werden, indem die genannten Befehle einer nach dem anderen (in der kurzen Variante oder der längeren) ins Terminal eingegeben werden, sodass man sieht, was im einzelnen passiert.
 
  
