@@ -9,6 +9,6 @@ WARNING: Anyone who simply runs the script without understanding the process wil
 
 Diese Liste von Befehlen installiert Docker, Docker Compose, Portainer und OpenWebUI (als Docker Container) auf debian-basierten Systemen, indem man sie vollständig ins Terminal kopiert. Am Ende des Skripts wird ein Reboot automatisch durchgeführt. Dennoch kann es nötig sein, einen oder beide der gestarteten Container über Docker zu restarten mit: siehe oben.
 
-WARNUNG: Wer einfach nur das Skript durchlaufen lässt, versteht nicht, wie es funktioniert. Deshalb sollte die Erstinstallation auf jeden Fall händisch ausgeführt werden, indem die genannten Befehle einer nach dem anderen (in der kurzen Variante oder der längeren) ins Terminal eingegeben werden, sodass man sieht, was im einzelnen passiert.
+WARNUNG: Wer einfach nur das Skript durchlaufen lässt, versteht nicht, wie es funktioniert. Deshalb sollte die Erstinstallation auf jeden Fall händisch ausgeführt werden, indem die genannten Befehle einer nach dem anderen ins Terminal eingegeben werden, sodass man sieht, was im einzelnen passiert.
 
  
