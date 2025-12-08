@@ -4,6 +4,7 @@ This list of commands installs Docker, Docker Compose, Portainer and OpenWebUI (
 Diese Liste von Befehlen installiert Docker, Docker Compose, Portainer und OpenWebUI (als Docker Container) auf debian-basierten Systemen, indem man sie vollständig ins Terminal kopiert. Am Ende des Skripts wird ein Reboot automatisch durchgeführt. Dennoch kann es nötig sein, einen oder beide der gestarteten Container über Docker zu restarten mit:
 
 ```
+sudo docker ps
 sudo docker restart <containername>
 ```
 
