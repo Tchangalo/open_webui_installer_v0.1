@@ -1,4 +1,4 @@
-### Englisch
+### English
 ---
 This list of commands installs Docker, Docker Compose, Portainer and OpenWebUI (as Docker container) on Debian-based systems by copying it entirely into the terminal. At the end of the script, a reboot is automatically performed. However, it may still be necessary to restart one or both of the started containers via Docker with:
 
