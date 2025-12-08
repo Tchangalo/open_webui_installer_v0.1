@@ -1,6 +1,6 @@
 ![gb](/flags/gb.png)
 ---
-This list of commands installs _Docker_, _Docker Compose_, _Portainer_ and _OpenWebUI_ (as Docker container) on Debian-based systems by copying it entirely into the terminal. At the end of the script, a reboot is automatically performed. However, it may still be necessary to restart one or both of the started containers via Docker with:
+This list of commands installs _Docker_, _Docker Compose_, _Portainer_ and _OpenWebUI_ (as a Docker container) on Debian-based systems by copying it entirely into the terminal. At the end of the script, a reboot is automatically performed. However, it may still be necessary to restart one or both of the started containers via Docker with:
 
 ```
 sudo docker ps
